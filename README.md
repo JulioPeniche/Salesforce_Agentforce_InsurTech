@@ -50,6 +50,9 @@ Simulação de cotação em tempo real
   Redução de 60% no tempo médio de resposta
 
 
+  
+
+
 
 ***  Próximos passos   ***
 
