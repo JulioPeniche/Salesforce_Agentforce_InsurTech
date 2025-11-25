@@ -23,3 +23,34 @@ Add. Dados e Formatação
 [Envio ao Agente / Follow-up]
  ↓
 [Encerramento]
+
+
+1️⃣ Problema
+
+O setor de seguros sofre com atrasos e perda de leads devido ao alto volume de solicitações manuais de cotação.
+Clientes esperam respostas rápidas e personalizadas — algo difícil de alcançar apenas com equipes humanas
+
+2️⃣ Solução Agentforce
+
+A SafeSure criou Sara Safe, uma agente virtual integrada ao Salesforce Agentforce.
+Ela automatiza o primeiro contato, coleta informações, gera cotações personalizadas e direciona os leads qualificados para consultores humanos.
+
+Principais recursos:
+
+Automação de fluxos no Salesforce Flow Builder
+
+Integração com base de leads
+
+Chatbot 24/7 com linguagem empática
+
+Simulação de cotação em tempo real
+
+3️⃣ Impacto Esperado
+
+  Redução de 60% no tempo médio de resposta
+
+  Aumento de 35% na taxa de conversão de leads
+
+  Atendimento 24h com linguagem humanizada
+
+  Redução de erros na coleta de dados
