@@ -49,6 +49,16 @@ Simulação de cotação em tempo real
 
   Redução de 60% no tempo médio de resposta
 
+
+
+***  Próximos passos   ***
+
+Criar protótipo funcional no Agentforce
+
+Medir métricas em tempo real (resposta, conversão, satisfação)
+
+Implementar integração com API de cotações reais
+
   Aumento de 35% na taxa de conversão de leads
 
   Atendimento 24h com linguagem humanizada
