@@ -58,7 +58,7 @@ Simulação de cotação em tempo real
   Redução de 60% no tempo médio de resposta
 
 
-  
+_________________________________________________________________________________________  
 
 
 
@@ -75,3 +75,5 @@ Implementar integração com API de cotações reais
   Atendimento 24h com linguagem humanizada
 
   Redução de erros na coleta de dados
+
+  
