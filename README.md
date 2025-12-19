@@ -57,7 +57,7 @@ Simulação de cotação em tempo real
 
 3️⃣ Impacto Esperado
 
-  Redução de 60% no tempo médio de resposta
+  Redução de 60% no tempo médio de resposta.
 
 
 ___________________________________________________________________________________________________  
