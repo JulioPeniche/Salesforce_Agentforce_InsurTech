@@ -38,7 +38,7 @@ ________________________________________________________________________________
 1️⃣ Problema
 
 O setor de seguros sofre com atrasos e perda de leads devido ao alto volume de solicitações manuais de cotação.
-Clientes esperam respostas rápidas e personalizadas — algo difícil de alcançar apenas com equipes humanas
+Clientes esperam respostas rápidas e personalizadas — algo difícil de alcançar apenas com equipes humanas.
 
 2️⃣ Solução Agentforce
 
